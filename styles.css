@@ -104,6 +104,22 @@ header nav ul li a {
 }
 
 
+/* Name and Title Styling */
+.profile-text {
+    margin-left: 20px;
+    color: #007BFF;
+}
+
+.profile-text h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.profile-text p {
+    font-size: 1rem;
+    color: #333;
+}
+
 /* Skills Section */
 #skills .skill-card {
     display: inline-block;
@@ -148,10 +164,10 @@ header nav ul li a {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-
 .project h3 {
     color: #007BFF;
 }
+
 /* SEO Section Styling */
 #seo {
     margin: 40px 0;
@@ -195,7 +211,6 @@ header nav ul li a {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-
 /* Contact Section */
 #contact {
     text-align: center;
@@ -232,7 +247,6 @@ header nav ul li a {
     transform: scale(1.2);
     opacity: 0.8;
 }
-
 
 /* Footer */
 footer {
